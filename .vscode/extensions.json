@@ -6,9 +6,10 @@
         "ms-python.python",
         "hediet.vscode-drawio",
         "oderwat.indent-rainbow",
-        "PKief.material-icon-theme",
         "GitHub.github-vscode-theme",
         "MS-vsliveshare.vsliveshare"
     ],
-    "unwantedRecommendations": []
+    "unwantedRecommendations": [
+
+    ]
 }
