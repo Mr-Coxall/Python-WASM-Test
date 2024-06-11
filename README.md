@@ -8,7 +8,8 @@
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](./LICENSE)
 
 ## How to Use
-- ensure the following extensions are installed (most likely in the "RECOMMENDED" section)
+- open this repo up in VS Code Web version
+- ensure the following VS Code extensions are installed (most likely in the "RECOMMENDED" section)
   - GitHub Repositories
   - Experimental - Python for the Web
   - Experimental - A shell for VS Code Web
