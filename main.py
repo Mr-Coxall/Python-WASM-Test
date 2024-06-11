@@ -5,12 +5,14 @@ Created on: Sep 2020
 This module calculates the area of circle
 """
 
+import math
+
 
 def calculate_area(radius: int) -> float:
     """The calculate_area() function calculates the area of circle, returns float."""
 
     # process
-    area = 3.14 * radius ** 2
+    area = math.pi * radius ** 2
 
     return area
 
@@ -18,8 +20,9 @@ def calculate_area(radius: int) -> float:
 def main() -> None:
     """The main() function just calls other functions, returns None."""
 
-    # input
-    radius = int(input("Enter the radius of a circle (cm): "))
+    # input() does not seem to work in debug mode
+    # radius = int(input("Enter the radius of a circle (cm): "))
+    radius = 42
     print("")
 
     # call functions
