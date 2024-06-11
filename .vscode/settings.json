@@ -28,6 +28,7 @@
     "editor.tabSize": 4,
     "explorer.confirmDragAndDrop": false,
     "extensions.ignoreRecommendations": true,
+    "debug.showInStatusBar": "never",
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 1000,
     "files.eol": "\n",
