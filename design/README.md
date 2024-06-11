@@ -1,0 +1,1 @@
+# **NOTE: This directory is where you draw your Class Diagrams, when we get there.**
