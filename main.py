@@ -2,34 +2,12 @@
 """
 Created by: Mr. Coxall
 Created on: Sep 2020
-This module calculates the area of circle
+This module is the "Hello, World!" program
 """
 
-import math
-
-
-def calculate_area(radius: int) -> float:
-    """The calculate_area() function calculates the area of circle, returns float."""
-
-    # process
-    area = math.pi * radius ** 2
-
-    return area
-
-
-def main() -> None:
-    """The main() function just calls other functions, returns None."""
-
-    # input() does not seem to work in debug mode
-    # radius = int(input("Enter the radius of a circle (cm): "))
-    radius = 42
-    print("")
-
-    # call functions
-    area = calculate_area(radius)
-
-    # output
-    print(f"The area is {area:.2f} cm²")
+def main():
+    # print "Hello, World!"
+    print(f"Hello, World!")
 
     print("\nDone.")
 
