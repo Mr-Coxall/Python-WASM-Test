@@ -3,7 +3,7 @@
 ## Badges
 [![Mr Coxall's Super Linter](https://github.com/Mr-Coxall/Python-WASM-Test/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/Mr-Coxall/Python-WASM-Test/actions)
 
-https://img.shields.io/badge/Open%20in%20VS%20Code%20Web-blue?logo=visualstudiocode&link=https%3A%2F%2Fmths.ca
+[![Open in VS Code Web](https://img.shields.io/badge/Open%20in%20VS%20Code%20Web-blue?logo=visualstudiocode&link=https%3A%2F%2Fmths.ca)](https://mths.ca)
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](./LICENSE)
 
