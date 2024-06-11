@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "GitHub.remotehub",
+        "ms-vscode.vscode-python-web-wasm",
+        "ms-vscode.webshell",
+        "hediet.vscode-drawio",
+        "oderwat.indent-rainbow",
+        "PKief.material-icon-theme",
+        "GitHub.github-vscode-theme",
+        "MS-vsliveshare.vsliveshare"
+    ],
+    "unwantedRecommendations": []
+}
