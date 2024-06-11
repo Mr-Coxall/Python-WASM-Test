@@ -5,14 +5,12 @@ Created on: Sep 2020
 This module calculates the area of circle
 """
 
-import math
-
 
 def calculate_area(radius: int) -> float:
     """The calculate_area() function calculates the area of circle, returns float."""
 
     # process
-    area = math.pi * radius ** 2
+    area = 3.14 * radius ** 2
 
     return area
 
