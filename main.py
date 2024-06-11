@@ -7,8 +7,8 @@ This module is the "Hello, World!" program
 
 
 def main():
-    # print "Hello, World!"
-    print(f"Hello, World!")
+    """The main() function prints "Hello, World!", returns None."""
+    print("Hello, World!")
 
     print("\nDone.")
 
