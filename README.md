@@ -12,5 +12,6 @@
   - Live Share
 
 - select your Python file to run (ex: `main.py`)
-- select Run (▷) button up in the top right hand corner
+- click the Run (▷) button up in the top right hand corner
   - the output will show up in the terminal at the bottom of screen
+  - you can also select the drop down arrow (v) next to the Run (▷) button and choose to debug your program
