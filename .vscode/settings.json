@@ -2,7 +2,7 @@
     "breadcrumbs.enabled": false,
     "breadcrumbs.filePath": "off",
     "breadcrumbs.icons": false,
-        "debug.console.fontSize": 18,
+    "debug.console.fontSize": 18,
     "editor.autoClosingQuotes": "always",
     "editor.bracketPairColorization.enabled": true,
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
