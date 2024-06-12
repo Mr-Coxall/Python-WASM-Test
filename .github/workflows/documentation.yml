@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Deploy
-        uses: peterhs73/sphinx-docs-action@v0.1.0
+        uses: peterhs73/sphinx-docs-action@v0.3.0
         with:
           python-version: 3.8
           docs-source: docs/
