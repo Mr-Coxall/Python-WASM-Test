@@ -11,6 +11,5 @@ jobs:
         with:
           python-version: 3.8
           docs-source: docs/
-          pyproject-path: .[docs]
           external-repo: peterhs73/sphinx-docs
           deploy-token: ${{secrets.PRIVATE_TOKEN}}
